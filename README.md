@@ -3,7 +3,7 @@
 <div align="center"> <img src="https://visitor-badge.laobi.icu/badge?page_id=Arix-ALIMAGNIDOKPO.Arix-ALIMAGNIDOKPO&" /> </div>
 <h1 align="center">Hey there 👋, I'm Arix!</h1>
 <h3 align="left">👩‍💻 About Me</h3>
-<p align="left">I'm Arix ALIMAGNIDOKPO from Bénin🇧🇯.<br><br>- 🔭 I’m working as Artificial Intelligence Intern for the Ministry of Foreign Affairs<br>- 📚 I'm currently learning Machine learning and Natural Language Processing(NLP) for Low ressources language.<</p>
+<p align="left">I'm Arix ALIMAGNIDOKPO from Bénin🇧🇯.<br><br>- 🔭 I’m working as Artificial Intelligence Intern for the Ministry of Foreign Affairs<br>- 📚 I'm currently learning Machine learning and Natural Language Processing (NLP) for Low ressources language.</p>
 <h3 align="left">🛠 Language and Tools</h3>
 <div align="left"> <!-- Replace the icons below with the ones that represent the languages and tools you use --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo" /> <!-- Add more icons as needed --> </div>
 <h3 align="left">🔥 My Stats:</h3>
